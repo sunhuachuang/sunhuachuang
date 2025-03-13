@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Neo, an idealist, cryptographer, programmer. Coding for a world with more freedom and privacy.
+
+
+- 👯 built a series of decentralized network infrastructures for a long time. 
+- 🔭 written some zero-knowledge proof and other cryptographic libraries.
+- 🌱 planted many plants and flowers in the garden.
+- ⚡ Like Rust and also write Python, Javascript, Dart, Elixir, Ruby... :) 
+
+I am currently an independent open source developer.
 <!--
 **sunhuachuang/sunhuachuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
