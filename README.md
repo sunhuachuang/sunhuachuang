@@ -3,10 +3,10 @@
 I'm **Neo**, an idealist, cryptographer, programmer. Coding for a world with more freedom and privacy.
 
 
-- 🌐 Built a series of decentralized network infrastructures. 
-- 🔒 Written some zero-knowledge proof and other cryptographic libraries.
-- 🍁 Planted many plants and flowers in the garden.
-- ⚡ Like Rust and also write Python, Javascript, Dart, Elixir, Ruby... :) 
+- 🌐 Built a series of **decentralized** network infrastructures. 
+- 🔒 Written some **zero-knowledge proof** and other cryptographic libraries.
+- 🍁 Planted many plants and flowers in the **garden**.
+- ⚡ Like and using **Rust** and also using Python, Solidity, Javascript, Dart, Elixir, Ruby... :) 
 
 I am currently an **independent open source developer**.
 <!--
