@@ -5,11 +5,11 @@ I'm **Neo**, an idealist, cryptographer, programmer. Coding for a world with mor
 
 - 🌐 Built a series of **decentralized** network infrastructures. 
 - 🔒 Written some **zero-knowledge proof** and other cryptographic libraries.
-- 🤖 Building **AI** and cool things.
+- 🤖 Building **security AI** and cool agents.
 - 🍁 Planted many plants and flowers in the **garden**.
 - ⚡ Like and using **Rust** and also using Python, Solidity, Javascript, Dart(Flutter), Elixir, Ruby... :) 
 
-I am currently working as an **open source developer**.
+I am currently working as an **open source developer** and **FDE**.
 <!--
 **sunhuachuang/sunhuachuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
