@@ -9,7 +9,7 @@ I'm **Neo**, an idealist, cryptographer, programmer. Coding for a world with mor
 - 🍁 Planted many plants and flowers in the **garden**.
 - ⚡ Like and using **Rust** and also using Python, Solidity, Javascript, Dart(Flutter), Elixir, Ruby... :) 
 
-I am currently working as an **open source developer** and **AI FDE**.
+I am currently working as an **open source developer** and **AI builder**.
 <!--
 **sunhuachuang/sunhuachuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
